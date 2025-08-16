@@ -3,9 +3,10 @@
 
 Hackintoshing... ahh, it was only a matter of time before I made my own. Here is my try (not fully successful) on putting macOS on Lenovo ThinkPad E330.
 
-If you want just the EFI, jump straight to "Lenovo ThinkPad E330 EFI and support" section. However, you're more than welcome to read my story.
+If you want just the EFI, jump straight to [Lenovo ThinkPad E330 EFI and support](https://github.com/AdamBru/Hackintosh-ThinkPad-E330#%EF%B8%8F-lenovo-thinkpad-e330-efi-and-support) section. However, you're more than welcome to read my story.
 
 ![macOS High Sierra on ThinkPad E330](https://github.com/user-attachments/assets/f03a9cd2-20da-46bb-b6ff-5e269e7bebd6)
+![macOS Bootloader](https://github.com/user-attachments/assets/8f11618a-f322-4dd0-8bec-934e78280860)
 
 ## 💬 r/Hackintosh
 
