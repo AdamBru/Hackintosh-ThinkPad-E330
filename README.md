@@ -10,7 +10,9 @@ If you want just the EFI, jump straight to [Lenovo ThinkPad E330 EFI and support
 
 ## 💬 r/Hackintosh
 
-Special NOT thanks to r/Hackintosh mods for not accepting my post there. In fact, they didn't even review my post I tried posting twice. That's not cool guys 😕.
+~~Special NOT thanks to r/Hackintosh mods for not accepting my post there. In fact, they didn't even review my post I tried posting twice. That's not cool guys 😕.~~
+
+UPDATE: It was the automod that was blocking my post (because of low karma level or something). I texted the real mods and they pubished my post.
 
   
 ## ⚠️ Required disclaimer (and my take on it)
